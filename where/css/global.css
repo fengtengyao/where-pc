@@ -1,0 +1,102 @@
+.wrap{
+	font-size:0px;
+}
+.head{
+	height:73px;
+}
+.head .content{
+	width:1201px;
+	margin:0px auto;
+}
+.content .logo{
+	width:138px;
+	height:73px;
+	background:url(../img/logo.jpg) no-repeat;
+	text-indent:-9999px;
+}
+.content .right-title{
+	width:1063px;
+}
+.right-title .title-top{
+	width:527px;
+	height:27px;
+	padding-left:536px;
+}
+.title-top li{
+	font-size:12px;
+	line-height:27px;
+	margin-right:11px;
+}
+.title-top .stress{
+	color:#0084bb;
+}
+.title-top .normal{
+	color:#666666;
+}
+.title-top .sign,.title-top .down,.title-top .language{
+	vertical-align:middle;
+}
+.title-top .sign{
+	width:10px;
+	height:15px;
+	background:url(../img/gif.gif) no-repeat 0 0;
+	display:inline-block;
+}
+.title-top .down{
+	width:6px;
+	height:15px;
+	background:url(../img/gif.gif) no-repeat -13px 0;
+	display:inline-block;
+	margin-left:-1px;
+}
+.title-top .language{
+	width:19px;
+	height:15px;
+	background:url(../img/gif.gif) no-repeat 0 -16px;
+	display:inline-block;
+	margin-left:6px;
+	margin-right:5px;
+}
+.title-top .line{
+	width:1px;
+	height:11px;
+	background-color:#ddd;
+	display:inline-block;
+	margin-left:2px;
+/*	margin-right:11px;*/
+	vertical-align:middle;
+}
+.right-title .title-bottom{
+	margin-top:14px;
+	position:relative;
+}
+.right-title .text{
+	width:822px;
+	height:32px;
+	word-spacing:12px;
+	text-align:left;
+}
+.text li{
+	font:bold 16px "宋体";
+	line-height:32px;
+	padding-left:10px;
+	padding-right:10px;
+}
+.text .frist{
+	padding-left:0px;
+}
+.title-bottom a{
+	color:#3c3c3c;
+}
+.title-bottom .active{
+	color:#0088a4;
+}
+ .title-bottom .gift{
+	width:137px;
+	height:32px;
+	background:url(../img/gift.png) no-repeat;
+	display:inline-block;
+	vertical-align:top;
+	text-align:right;
+	margin-left:93px;
+}

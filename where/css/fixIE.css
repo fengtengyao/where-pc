@@ -1,0 +1,29 @@
+.right-title .title-top{
+	*height:19px;
+	*padding-top:8px;
+}
+.title-top .sign{
+	*margin-right:5px;
+}
+.right-title .title-bottom{
+	height:32px;
+	*padding-bottom:0;
+}
+.title-right .inquire,.title-right .also{
+	*margin-right:4px;
+}
+/*ie6下不支持display:inline-block*/
+.last .tips{
+	*display:inline;
+	*zoom:1;
+}
+.last .VIP{
+	*zoom:1;
+}
+/*ie6下*/
+.found span{
+	*margin-right:4px;
+}
+.notes span{
+	*margin-right:4px;
+}
